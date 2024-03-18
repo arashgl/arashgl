@@ -8,7 +8,7 @@ I'm proficient in a variety of technologies and frameworks. Currently, I'm focus
 - Backend Development: NestJS, Node.js
 - Frontend Development: React, Next.js
 - Data Engineering: Python, SQL
-- Deployment: AWS, Kubernetes
+- Deployment: Ubuntu Server, Kubernetes
 
 If you're interested in collaborating on a project or just want to say hi, feel free to reach out to me. You can connect with me through the following channels:
 
