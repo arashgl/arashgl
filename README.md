@@ -5,9 +5,9 @@ I'm Arash, a passionate software engineer who loves building innovative solution
 
 I'm proficient in a variety of technologies and frameworks. Currently, I'm focusing on the following:
 
-- Backend Development: NestJS, Node.js
+- Backend Development: NestJS, Node.js, Golang
 - Frontend Development: React, Next.js
-- Blockchain: Solidity, Ethereum
+- Blockchain: Solidity, Ethereum, Hardhat, Foundry
 - Deployment: Ubuntu Server, Nginx, Docker
 
 If you're interested in collaborating on a project or just want to say hi, feel free to reach out to me. You can connect with me through the following channels:
